@@ -6,7 +6,7 @@
         "USDCAD",
         "GBPUSD"
     ],
-    "risk" : 2,
+    "risk" : 1,
     "takeprofit": 700.0,
     "stoploss": 300.0,
     "movingAverages": {
